@@ -7,11 +7,6 @@ vinothini
 swathiga
 18ecr218
 dcfvebhgywtgf
-<<<<<<< HEAD
-
-edfewf
-yxfvmncg,hufdkujyn
-=======
 shanmathi c 
 18ecr191
 snakha v
@@ -21,4 +16,3 @@ vinothini
 swathiga
 18ecr218
 dcfvebhgywtgf
->>>>>>> sub_branch4
